@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\hash\hash\obj\Debug\hash.csprojAssemblyReference.cache
+C:\Users\User\source\repos\hash\hash\obj\Debug\hash.Form1.resources
+C:\Users\User\source\repos\hash\hash\obj\Debug\hash.Properties.Resources.resources
+C:\Users\User\source\repos\hash\hash\obj\Debug\hash.csproj.GenerateResource.cache
+C:\Users\User\source\repos\hash\hash\bin\Debug\hash.exe.config
+C:\Users\User\source\repos\hash\hash\bin\Debug\hash.exe
+C:\Users\User\source\repos\hash\hash\bin\Debug\hash.pdb
+C:\Users\User\source\repos\hash\hash\obj\Debug\hash.exe
+C:\Users\User\source\repos\hash\hash\obj\Debug\hash.pdb
